@@ -23,9 +23,6 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-<hr>
-
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
