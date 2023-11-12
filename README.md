@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and solving problems using technology.
+- 🤔 &nbsp; Exploring new technologies and trying to solving problems using technology.
 - 🎓 &nbsp; Studied Cyber Security and Ethical Hacking and Web Development.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Wb Development and Article Writing as hobbies/side hustles.
@@ -23,4 +23,4 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 <br/>
 
-⭐️ From [Brian Muiruri](https://github.com/brianondemand)
+⭐️ From [3rian](https://github.com/brianondemand)
