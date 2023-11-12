@@ -29,8 +29,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-<a href="https://twitter.com/Iplaypesinkenya"><img alt="" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<p>
 <a href="https://twitter.com/Iplaypesinkenya"><img alt="X" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 
