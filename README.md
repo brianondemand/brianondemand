@@ -7,7 +7,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Web Development and Article Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technologies</h3>
 
 - 💻 &nbsp;
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
