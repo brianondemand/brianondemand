@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and trying to solving problems using technology.
 - 🎓 &nbsp; Studied Cyber Security and Ethical Hacking and Web Development.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Wb Development and Article Writing as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development and Article Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
