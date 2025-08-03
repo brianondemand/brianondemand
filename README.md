@@ -25,10 +25,12 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> All my web projects </h3>
+![Linktree](https://linktr.ee/brianondemand)
 
+<h3> 🤝🏻 Connect with Me </h3>
 <p>
-<a href="https://twitter.com/Iplaypesinkenya"><img alt="X" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://x.com/cehforbrian"><img alt="X" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 
 
